@@ -48,7 +48,6 @@
     
 // Time Complexity: O(N)
 // Space Complexity: O(1)
-package Strings;
 
 import java.util.HashMap;
 import java.util.Map;
