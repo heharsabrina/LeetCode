@@ -1,6 +1,8 @@
 // Time Complexity: O(N)
 // Space Complexity: O(N)
 
+import java.util.HashSet;
+
 class Solution
 {
     public int lengthOfLongestSubstring(String s)
