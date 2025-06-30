@@ -1,4 +1,4 @@
-package Leetcode75.Array;
+package Leetcode75.Array_String;
 
 // Time Complexity: O(N+M)
 // Space Complexity: O(N+M)
