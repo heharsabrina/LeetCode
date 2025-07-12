@@ -1,5 +1,6 @@
 package two_pointers;
 
+// Two Pointers - For when the array IS sorted
 // Time Complexity: O(N)
 // Space Complexity: O(1)
 
