@@ -14,6 +14,7 @@ public class ContainerWithMostWater_11
         while(j>i)
         {
             area=Math.max(Math.min(height[i], height[j])*(j-i), area);
+            // int h=Math.min(height[i], height[j]);
             // while(j>i && height[i]<=h) i++;
             // while(j>i && height[j]<=h) j--;
             // or
