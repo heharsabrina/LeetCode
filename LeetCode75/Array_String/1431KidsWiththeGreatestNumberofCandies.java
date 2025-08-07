@@ -6,7 +6,7 @@ import java.util.List;
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 
-public class KidsWiththeGreatestNumberofCandies_1431
+class Solution
 {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies)
     {
