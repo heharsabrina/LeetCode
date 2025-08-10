@@ -1,5 +1,3 @@
-package LeetCode75.Array_String;
-
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 

@@ -1,5 +1,3 @@
-package LeetCode75.Array_String;
-
 // Time Complexity: O(log(min(len(str1), len(str2))))
 // Space Complexity: O(1)
 
