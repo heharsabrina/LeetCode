@@ -3,9 +3,9 @@ package SortingAlgorithms;
 import java.util.Arrays;
 
 /* Time Complexity:
- *  Best Case: O(n)
- *  Average Case: O(n^2)
- *  Worst Case: O(n^2)
+ *  Best Case: O(n) -> If the array is already sorted, then there is no need for sorting.
+ *  Average Case: O(n^2) -> It occurs when the elements of the array are in jumbled order (neither ascending nor descending).
+ *  Worst Case: O(n^2) -> If we want to sort in ascending order and the array is in descending order then the worst case occurs.
  * 
  * Space Complexity: O(1) -> In-place sorting
  * 
