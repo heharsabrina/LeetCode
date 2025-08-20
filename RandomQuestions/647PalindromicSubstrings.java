@@ -11,8 +11,8 @@ class Solution
 
         for(int i=0;i<s.length();i++)
         {
-            result+=count_palindrome(s, i, i);
-            result+=count_palindrome(s, i, i+1);
+            result+=count_palindrome(s, i, i); //Odd Palindrome ('a', 'b', 'aba')
+            result+=count_palindrome(s, i, i+1); //Even Palindrome ('aa', 'bb', 'abba')
         }
         return result;
     }
